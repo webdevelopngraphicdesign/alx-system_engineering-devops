@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly
+rite a script that displays a confused smiley
